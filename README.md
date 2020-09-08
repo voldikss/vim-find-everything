@@ -8,6 +8,11 @@ Use [everything](https://www.voidtools.com/) in vim.
 - Asynchronous searching
 - Vim8's popup support
 
+# Install
+```
+Plug 'voldikss/vim-find-everything'
+```
+
 # Options
 
 ```vim
