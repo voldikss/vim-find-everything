@@ -52,3 +52,7 @@ let g:fe_default_loc = get(g:, 'fe_default_loc', '')
 
 - Thank chao wang for developing [FindEverything](https://www.vim.org/scripts/script.php?script_id=3499)
 - Thank js79903 for sponsoring
+
+# References
+
+- [voldikss/Leaderf-everything](https://github.com/voldikss/Leaderf-everything)
